@@ -3,8 +3,8 @@
 
 ```js
 const LautaroJBeck={
-  habilities:[HTML,CSS,JavaScript],
-  otherTechnologies:[React,Node,Bootstrap,Express,MySql,MongoDB]
+  habilities:[HTML,CSS,JavaScript,Python],
+  otherTechnologies:[React,Node,FastAPI,Express,SQL,MongoDB]
 }
 
 ```
