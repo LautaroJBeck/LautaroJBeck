@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Lautaro Beck
+# Hi, I'm Lautaro Beck
 ### I'm a self-taught full-stack programmer from South America
 
 ```js
